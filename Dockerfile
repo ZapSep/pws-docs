@@ -1,5 +1,5 @@
 #escape=\
-FROM squidfunk/mkdocs-material:8.4.1
+FROM squidfunk/mkdocs-material:9.0.12
 
 RUN apk add --no-cache nodejs
 
